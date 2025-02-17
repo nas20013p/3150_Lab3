@@ -4,7 +4,7 @@ This lab implements a linked list in C++ with node manipulation functions and un
 
 To run:
 
-1. Clone the repository (if applicable).  *(Only if you're using a repo)*
+1. Clone the repository.
 
 2. Compile and run tests:
    ```bash
